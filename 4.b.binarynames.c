@@ -11,7 +11,7 @@ scanf("%d",&n);
 printf("enter the name in ascending order of their name length\n");
 for(i=0;i<n;i++)
 {
-scanf("%s",&a[i]);
+scanf("%s",a[i]);
 }
 printf("\nenter the name to be searched\n");
 scanf("%s",&key);
