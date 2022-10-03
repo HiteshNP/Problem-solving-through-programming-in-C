@@ -2,7 +2,7 @@
 #include<stdio.h>
 int main()
 {
-int a[10],i,n,low,high,mid,key,flag=0;
+int a[10],i,n,low,high,mid,key;
 printf("enter the number of elements\n");
 scanf("%d",&n);
 printf("enter array elements in ascending order\n");
