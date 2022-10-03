@@ -14,7 +14,7 @@ for(i=0;i<n;i++)
 scanf("%s",a[i]);
 }
 printf("\nenter the name to be searched\n");
-scanf("%s",&key);
+scanf("%s",key);
 low=0;
 high=n-1;
 while(low<=high)
